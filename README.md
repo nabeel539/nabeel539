@@ -1,5 +1,3 @@
-<!-- Impressive & Beautiful README for Recruiters -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2FC6DB&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Mohammed+Nabeel+Ahemad;Passionate+Frontend+Developer;Open+Source+Enthusiast;Lifelong+Learner+from+India" alt="Typing SVG" />
 </p>
@@ -53,6 +51,15 @@
 
 ---
 
+### 🎯 Currently Working On
+
+- 🔥 Mastering Next.js 14 and Server Components
+- 📱 Building responsive web applications with modern React patterns
+- 🚀 Contributing to open-source React projects
+- 💡 Exploring advanced TypeScript and state management solutions
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -61,19 +68,41 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeel539&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel539&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- [Personal Portfolio](https://mdn-porfolio.vercel.app/) – My personal website & portfolio
-- [LeetCode Profile](https://www.leetcode.com/mdnabeelahemad539) – Coding challenges & solutions
-- [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/mdnabeelahemad539) – Algorithms & Data Structures practice
+**🌐 [Personal Portfolio](https://mdn-porfolio.vercel.app/)**
+- Modern, responsive portfolio showcasing projects and skills
+- Built with React, TailwindCSS, and deployed on Vercel
+- Features smooth animations and optimized performance
+
+**💻 [Project Name 2]** *(Replace with your actual project)*
+- Brief description of what the project does and its purpose
+- Key technologies used and notable features
+- Live demo and GitHub repository links
+
+**⚡ [Project Name 3]** *(Replace with your actual project)*
+- Another impressive project from your portfolio
+- Highlight the problem it solves or skills it demonstrates
+- Technical stack and implementation details
 
 ---
 
-### 🤝 Connect with Me
+### 🏆 Achievements & Profiles
+
+- 📊 **[LeetCode Profile](https://www.leetcode.com/mdnabeelahemad539)** – Solving coding challenges and algorithms
+- 🎯 **[GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/mdnabeelahemad539)** – Data Structures and Algorithms practice
+- 🌟 **50+ GitHub Repositories** – Diverse projects showcasing continuous learning
+- 💡 **Open Source Contributor** – Actively contributing to community projects
+
+---
+
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/md-nabeel539" target="_blank">
@@ -92,9 +121,16 @@
 <details>
   <summary>📚 More About Me</summary>
   <ul>
-    <li>🔭 I’m currently working on Frontend Projects using React & Next.js</li>
-    <li>🤝 I’m looking to collaborate on open-source React projects</li>
+    <li>🔭 I'm currently working on Frontend Projects using React & Next.js</li>
+    <li>🤝 I'm looking to collaborate on open-source React projects</li>
     <li>🎓 Always eager to learn new tech and frameworks</li>
     <li>💬 Ask me about JavaScript, React, UI/UX, or anything frontend!</li>
+    <li>⚡ Fun fact: I believe great code is like poetry - it should be beautiful and meaningful</li>
   </ul>
 </details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabeel539&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
