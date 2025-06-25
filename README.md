@@ -53,9 +53,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabeel539&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeel539&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=nabeel539&theme=radical" alt="GitHub Streak" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeel539&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+
 
 ---
 
