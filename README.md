@@ -23,11 +23,15 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Frontend Developer | JavaScript Enthusiast | UI/UX Advocate
-- 🎯 Focused on building responsive, accessible, and delightful web experiences
-- 💼 Currently open to new opportunities and collaborations
-- 🌱 Always learning new technologies and best practices
-- 🏆 Active on LeetCode & GeeksforGeeks to sharpen problem-solving skills
+- 🚀 Frontend Engineer | JavaScript & React Enthusiast | UI/UX Focused
+
+- 🎯 Passionate about building responsive, accessible, and performant web apps
+
+- 💼 Open to frontend-focused roles and meaningful product collaborations
+
+- 🌱 Continuously learning new frameworks, design patterns, and best practices
+
+- 🧠 Sharpening DSA skills regularly on LeetCode & GeeksforGeeks
 
 ---
 
@@ -56,6 +60,7 @@
   <img src="https://streak-stats.demolab.com?user=nabeel539&theme=radical" alt="GitHub Streak" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeel539&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+
 
 
 ---
