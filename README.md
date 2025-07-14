@@ -73,25 +73,26 @@
 </p>
 
 ---
-
 ### 🚀 Featured Projects
 
-**🌐 [Personal Portfolio](https://mdn-porfolio.vercel.app/)**
-- Modern, responsive portfolio showcasing projects and skills
-- Built with React, TailwindCSS, and deployed on Vercel
-- Features smooth animations and optimized performance
+**📄 [MICRO 75 – Certificate Generator Tool](https://micro75-cert.vercel.app/)**  
+- Built a web app to dynamically generate and export professional certificates  
+- Enables bulk certificate generation using user data and HTML-to-PDF conversion  
+- Stack: React, Tailwind CSS, HTML2PDF.js  
+- [Code](https://github.com/mdnabeelahmad/certificate-generator-micro75)
 
-**💻 [Project Name 2]** *(Replace with your actual project)*
-- Brief description of what the project does and its purpose
-- Key technologies used and notable features
-- Live demo and GitHub repository links
+**🛒 [Urban Mart – E-commerce Platform](https://urban-mart-frontend.onrender.com/)**  
+- Full-stack MERN shopping platform with cart, checkout, and admin dashboard  
+- Integrated Razorpay for secure payments, improving user experience by 25%  
+- Stack: React, Node.js, Express.js, MongoDB  
+- [Code]([https://github.com/nabeel539/urban-mart](https://github.com/nabeel539/urban-mart))
 
-**⚡ [Project Name 3]** *(Replace with your actual project)*
-- Another impressive project from your portfolio
-- Highlight the problem it solves or skills it demonstrates
-- Technical stack and implementation details
+**📝 [Hashtag Agriculture – Mock Test Platform](https://www.hashtagagriculture.com/)**  
+- Developed a mock test system with OTP login, timed MCQs, and real-time result generation  
+- Admin dashboard for uploading questions and setting test pricing; used by 1,000+ students  
+- Stack: React, Node.js, MongoDB, Tailwind CSS  
+- [Code]([https://github.com/nabeel539/Hashtag-Agriculture-Mock-Test](https://github.com/nabeel539/Hashtag-Agriculture-Mock-Test))
 
----
 
 ### 🏆 Achievements & Profiles
 
