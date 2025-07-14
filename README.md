@@ -75,11 +75,10 @@
 ---
 ### 🚀 Featured Projects
 
-**📄 [MICRO 75 – Certificate Generator Tool](https://micro75-cert.vercel.app/)**  
+**📄 [MICRO 75 – Certificate Generator Tool](https://micro-frontend-17nl.onrender.com/)**  
 - Built a web app to dynamically generate and export professional certificates  
 - Enables bulk certificate generation using user data and HTML-to-PDF conversion  
-- Stack: React, Tailwind CSS, HTML2PDF.js  
-- [Code](https://github.com/mdnabeelahmad/certificate-generator-micro75)
+- Stack: React, Tailwind CSS, HTML2PDF.js
 
 **🛒 [Urban Mart – E-commerce Platform](https://urban-mart-frontend.onrender.com/)**  
 - Full-stack MERN shopping platform with cart, checkout, and admin dashboard  
