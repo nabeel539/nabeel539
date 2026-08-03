@@ -1,136 +1,194 @@
+<h1 align="center">Hi 👋, I'm Mohammed Nabeel Ahemad</h1>
+
+<h3 align="center">
+Applied AI Engineer • Software Engineer • Building Production-Ready AI Applications
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2FC6DB&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I%27m+Mohammed+Nabeel+Ahemad;Passionate+Frontend+Developer;Open+Source+Enthusiast;Lifelong+Learner+from+India" alt="Typing SVG" />
+Building AI-powered products with Python, FastAPI, LLMs, LangChain, LangGraph, RAG & React
 </p>
 
 <p align="center">
-  <a href="[https://mdn-porfolio.vercel.app/](https://mdndev-porfolio.vercel.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23008080.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://mdndev-porfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+
   <a href="mailto:mdnabeelahemad539@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/md-nabeel539" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/md-nabeel-ahemad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/md_nabeel539" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+
+  <a href="https://github.com/nabeel539" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🚀 Frontend Engineer | JavaScript & React Enthusiast | UI/UX Focused
+I'm a **Software Engineer with 3.5+ years of experience** building enterprise software and modern web applications. Over the past few years, I've expanded my expertise into **Applied AI**, designing production-ready AI applications that combine robust software engineering with Large Language Models.
 
-- 🎯 Passionate about building responsive, accessible, and performant web apps
+I enjoy solving real engineering problems involving intelligent automation, scalable backend systems, AI agents, Retrieval-Augmented Generation (RAG), and enterprise workflow optimization.
 
-- 💼 Open to frontend-focused roles and meaningful product collaborations
+### Current Focus
 
-- 🌱 Continuously learning new frameworks, design patterns, and best practices
-
-- 🧠 Sharpening DSA skills regularly on LeetCode & GeeksforGeeks
+- 🤖 Applied AI & Generative AI
+- 🧠 AI Agents & Agentic Workflows
+- 📚 LangChain & LangGraph
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI & Python Backend Development
+- 🚀 Building Production AI Applications
 
 ---
 
-### 🛠️ Tech Stack
+# 🚀 Professional Highlights
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- 💼 3.5+ Years of Software Engineering Experience
+- 🤖 Production AI Application Development
+- ⚡ Reduced enterprise processing time from **5 minutes to 20 seconds**
+- 📈 Reduced manual data entry by **70%**
+- 🚀 Improved application performance by **35–45%**
+- 📊 Saved **15+ hours/week** using AI-powered workflow automation
+- 🌍 Built scalable systems processing **200K–400K records**
+- 📍 Real-time systems supporting **50+ GPS events/sec**
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61dafb)
-![Redux](https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## AI & Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=flat)
+![RAG](https://img.shields.io/badge/RAG-009688?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5C2D91?style=flat)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-blue?style=flat)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-orange?style=flat)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSockets-orange?style=flat)
 
 ---
 
-### 🎯 Currently Working On
+## Frontend
 
-- 🔥 Mastering Next.js 14 and Server Components
-- 📱 Building responsive web applications with modern React patterns
-- 🚀 Contributing to open-source React projects
-- 💡 Exploring advanced TypeScript and state management solutions
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## Database & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+
+---
+
+# ⭐ Featured Projects
+
+## 📄 Intelligent Document Search Platform
+
+> AI-powered Retrieval-Augmented Generation (RAG) application enabling natural language interactions with documents.
+
+**Tech**
+
+Python • FastAPI • LangChain • OpenAI • ChromaDB • React
+
+---
+
+## 🤖 Multi-Agent AI Research Assistant
+
+> Multi-agent system orchestrating AI agents for web research, content extraction, report generation, and automated review.
+
+**Tech**
+
+Python • LangChain • LangGraph • OpenAI • FastAPI
+
+---
+
+## 🏫 School Management System (In Progress)
+
+Modern AI-powered School ERP featuring intelligent assistants, beautiful UI, workflow automation, and enterprise architecture.
+
+---
+
+## 📊 Enterprise AI Reporting Assistant
+
+AI-powered reporting workflow enabling business users to generate structured reports using natural language while reducing manual effort.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeel539&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=nabeel539&theme=radical" alt="GitHub Streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeel539&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeel539&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+  <img src="https://streak-stats.demolab.com?user=nabeel539&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel539&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
-### 🚀 Featured Projects
-
-**📄 [MICRO 75 – Certificate Generator Tool](https://micro-frontend-17nl.onrender.com/)**  
-- Built a web app to dynamically generate and export professional certificates  
-- Enables bulk certificate generation using user data and HTML-to-PDF conversion  
-- Stack: React, Tailwind CSS, HTML2PDF.js
-
-**🛒 [Urban Mart – E-commerce Platform](https://urban-mart-frontend.onrender.com/)**  
-- Full-stack MERN shopping platform with cart, checkout, and admin dashboard  
-- Integrated Razorpay for secure payments, improving user experience by 25%  
-- Stack: React, Node.js, Express.js, MongoDB  
-- [Code]([https://github.com/nabeel539/urban-mart](https://github.com/nabeel539/urban-mart))
-
-**📝 [Hashtag Agriculture – Mock Test Platform](https://www.hashtagagriculture.com/)**  
-- Developed a mock test system with OTP login, timed MCQs, and real-time result generation  
-- Admin dashboard for uploading questions and setting test pricing; used by 1,000+ students  
-- Stack: React, Node.js, MongoDB, Tailwind CSS  
-- [Code]([https://github.com/nabeel539/Hashtag-Agriculture-Mock-Test](https://github.com/nabeel539/Hashtag-Agriculture-Mock-Test))
-
-
-### 🏆 Achievements & Profiles
-
-- 📊 **[LeetCode Profile](https://www.leetcode.com/mdnabeelahemad539)** – Solving coding challenges and algorithms
-- 🎯 **[GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/mdnabeelahemad539)** – Data Structures and Algorithms practice
-- 🌟 **50+ GitHub Repositories** – Diverse projects showcasing continuous learning
-- 💡 **Open Source Contributor** – Actively contributing to community projects
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/md-nabeel539" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/md_nabeel539" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" />
-  </a>
-  <a href="mailto:mdnabeelahemad539@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?style=flat&logo=gmail" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel539&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-<details>
-  <summary>📚 More About Me</summary>
-  <ul>
-    <li>🔭 I'm currently working on Frontend Projects using React & Next.js</li>
-    <li>🤝 I'm looking to collaborate on open-source React projects</li>
-    <li>🎓 Always eager to learn new tech and frameworks</li>
-    <li>💬 Ask me about JavaScript, React, UI/UX, or anything frontend!</li>
-    <li>⚡ Fun fact: I believe great code is like poetry - it should be beautiful and meaningful</li>
-  </ul>
-</details>
+# 🌱 Currently Learning
+
+- Agentic AI Systems
+- Model Context Protocol (MCP)
+- Advanced LangGraph
+- AI Workflow Orchestration
+- FastAPI Architecture
+- Production LLM Applications
+- AI Evaluation & Observability
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/md-nabeel-ahemad/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mdnabeelahemad539@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://mdndev-porfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabeel539&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<i>Building intelligent software that combines AI with scalable engineering.</i>
 </p>
